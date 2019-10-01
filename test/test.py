@@ -15,5 +15,3 @@ averager = make_averager()
 
 print(averager(10))
 print(averager(20))
-print(averager(30))
-print(averager(40))
